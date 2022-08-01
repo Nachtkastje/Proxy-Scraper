@@ -1,1 +1,1 @@
-This project is outdated and should be used anymore 
+# This project is outdated and should not be used in production 
